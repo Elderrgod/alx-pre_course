@@ -1,2 +1,1 @@
-My first readme
-good programmer
+READ ME FILE HAS BEEN UPDATED
